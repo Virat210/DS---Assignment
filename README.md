@@ -1,6 +1,6 @@
 # 🧠 DS---Assignment
 
-This repository contains a collection of Java programs designed to solve classic data structure problems. Each file demonstrates a specific algorithm or matrix manipulation technique, making this a valuable resource for students, educators, and developers looking to strengthen their understanding of data structures in Java.
+This repository contains a collection of Java programs designed to solve classic data structure problems. Each file demonstrates a specific algorithm or matrix manipulation technique, making this a valuable resource for student, educators, and developers looking to strengthen their understanding of data structures in Java.
 
 ## 📁 Repository Structure
 
