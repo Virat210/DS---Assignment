@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
             int l = 0, r = n - 1;
             while (l < r) {
                 int temp = matrix[i][l];
