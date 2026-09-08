@@ -8,7 +8,7 @@ class Solution {
         int bestTeam = 0;
         int maxSum = Integer.MIN_VALUE;
 
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i <= N; i++) {
             int sum = 0;
             for (int j = 0; j <= M; j++){
               sum += sc.nextInt();
