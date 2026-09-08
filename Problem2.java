@@ -10,7 +10,7 @@ class Solution {
 
         for (int i = 0; i < N; i++) {
             int sum = 0;
-            for (int j = 0; j <= M; j++){
+            for (int j = 0; j < M; j++){
               sum += sc.nextInt();
             }
             if(sum > maxSum){
