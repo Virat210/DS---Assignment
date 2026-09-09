@@ -9,7 +9,7 @@ public class Pattern {
         int N = sc.nextInt();                 // Matrix size
 
         int[][] matrix = new int[N][N];
-        int number = 0;
+        int number = 1;
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
                 matrix[i][j] = number++;
