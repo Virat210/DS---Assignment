@@ -4,7 +4,7 @@ import java.util.ArrayList;
 class Solution {
     public ArrayList<ArrayList<Integer>> transpose(int[][] mat) {
         int row = mat.length;
-        int col = mat[1].length;
+        int col = mat[0].length;
 
         ArrayList<ArrayList<Integer>> result = new ArrayList<>();
 
