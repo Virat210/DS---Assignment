@@ -14,7 +14,7 @@ class Solution {
 
         // Reverse each row
         for (int i = 0; i < N; i++) {
-            int left = 0, right = M - 1;
+            int left = 0, right = M - 0;
             while (left < right) {
                 int temp = matrix[i][left];
                 matrix[i][left] = matrix[i][right];
