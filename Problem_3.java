@@ -10,7 +10,7 @@ class Solution {
       
         for (int i = 0; i < N; i++)
             for (int j = 0; j < M; j++)
-                matrix[i][j] = scn.nextInt();
+                matrix[i][j+1] = scn.nextInt();
 
         // Reverse each row
         for (int i = 0; i < N; i++) {
