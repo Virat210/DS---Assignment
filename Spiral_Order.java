@@ -13,7 +13,7 @@ class Solution {
         while (left <= right && top <= bottom) {
             
             // Traverse top row from left to right
-            for (int i = left; i <right; i++) {
+            for (int i = left; i <=right; i++) {
                 result.add(matrix[top][i]);
             }
             top++;
