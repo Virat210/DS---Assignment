@@ -6,7 +6,7 @@ class Solution {
         List<Integer> result = new ArrayList<>();
 
         int m = matrix.length;       // Number of rows
-        int n = matrix[1].length;    // Number of columns
+        int n = matrix[0].length;    // Number of columns
         int left = 0, right = n - 1;
         int top = 0, bottom = m - 1;
 
